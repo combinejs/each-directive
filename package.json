@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/combinejs/mix-directive.git"
+    "url": "git+https://github.com/combinejs/each-directive.git"
   },
   "author": "spat.ne.hochu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/combinejs/mix-directive/issues"
+    "url": "https://github.com/combinejs/each-directive/issues"
   },
-  "homepage": "https://github.com/combinejs/mix-directive#readme",
+  "homepage": "https://github.com/combinejs/each-directive#readme",
   "dependencies": {
   },
   "devDependencies": {
